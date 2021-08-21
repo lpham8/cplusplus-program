@@ -1,0 +1,8 @@
+﻿  UserInputs.cpp
+C:\School\cs-210 c++\VS_projects\Project3\UserInputs.cpp(45,16): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  22 of 302 functions ( 7.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3.vcxproj -> C:\School\cs-210 c++\VS_projects\Project3\Release\Project3.exe
