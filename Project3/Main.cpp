@@ -211,7 +211,7 @@ int main() {
 				// reading from frequency.dat
 				if (myFile.is_open()) {
 
-					// loop to iterrate through each charative in a line then output
+					// loop to iterrate through each character in a line then output
 					while (getline(myFile, line)) {
 						string word = "";
 						for (auto i : line) {
