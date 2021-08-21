@@ -26,8 +26,9 @@ void ItemsPurchased::ReadFile() {
 
 	// lists purchased items for customers to view
 	cout << "Items Purchased: " << endl;
-	for (i = 0; i < itemsPurchased.size(); ++i) {
-		cout << itemsPurchased[i] << ", ";
+	cout << itemsPurchased[0];
+	for (i = 1; i < itemsPurchased.size(); ++i) {
+		cout << ", " << itemsPurchased[i];
 	}
 	
 	cout << endl << endl;
